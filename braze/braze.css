@@ -1,0 +1,126 @@
+
+body {
+  font-size: 11pt;
+  font-family: Verdana, Arial, sans-serif;
+  font-color: #000000;
+}
+
+.normal {
+  font-size: 9pt;
+  font-family: Verdana, Arial, sans-serif;  
+  font-color: #000000;
+}
+
+p.ref {
+  text-indent: -1em;
+  margin-left: 1em;
+  margin-top: 0;
+  font-size: -1;
+}
+
+.address1 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  line-height: 12pt;
+  color: #000000;
+}
+
+h1.staffname1 {
+  font-family: Verdana, Arial, sans-serif;  
+  font-size: 18pt;
+  font-variant: small-caps;
+  font-color: #000000;
+  font-weight: normal;
+}
+
+h2.hh2 {
+  font-family: Verdana, Arial, sans-serif;  
+  font-size: 14pt;
+  font-color: #000000;
+  font-weight: normal;
+  font-variant: small-caps;
+  margin-bottom: 0;
+}
+
+h3.hh3 {
+  font-family: Verdana, Arial, sans-serif;  
+  font-size: 11pt;
+  font-color: #000000;
+  font-weight: normal;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+a:link {
+  color: #CC3300;
+}
+
+a:visited {
+  color: #7d0d00;
+}
+
+a:hover {
+  color: #7d0d00;
+  background-color: #88bbff;
+}
+
+a.img:link {
+  color: #7d0d00;;
+}
+
+a.img:visited {
+}
+
+a.img:hover {
+  color: #88bbff;
+}
+
+
+a.nav:link {
+  color: #ffffff;
+  font-size: 8pt;
+  font-weight: 500;
+}
+
+a.nav:visited {
+  color: #ff6600;
+  font-size: 8pt;
+  font-weight: 500;
+}
+
+a.nav:hover {
+  color: #88bbff; 
+  font-size: 9pt;
+  background-color: #7d0d00;
+  font-weight: 500;
+}
+
+a.nav:active {
+  color: #6699ff; 
+  font-size: 9pt;
+  font-weight: 500;
+}
+
+
+a.nav2:link {
+  font-size: 8pt;
+  font-weight: 500;
+}
+
+a.nav2:visited {
+  font-size: 8pt;
+  font-weight: 500;
+}
+
+a.nav2:hover {
+  color: #7d0d00; 
+  font-size: 9pt;
+  background-color: #88bbff;
+  font-weight: 500;
+}
+
+a.nav2:active {
+  color: #6699ff; 
+  font-size: 9pt;
+  font-weight: 500;
+}
