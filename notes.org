@@ -1,0 +1,33 @@
+* good examples of scholar sites
+  + [[http://tallinzen.net/][http://tallinzen.net/]]
+  + [[http://dan.mccloy.info/][http://dan.mccloy.info/]] This is a jekyll site. Source is available
+    on github: [[https://github.com/drammock/dan.mccloy.info][https://github.com/drammock/dan.mccloy.info]]
+
+* Other resources
+** templating tools
+*** Skeleton
+    Skeleton is a simple templating ssytem that only styles a handful
+    of standard HTML elements and includes a grid. Use skeleton by
+    direct editing of the html/css templates provided.
+    + Find it at [[www.getskeleton.com][www.getskeleton.com]].
+*** Pelican
+    Pelican is written in Python and uses the Jinja templating
+    system. One possible downside is that it seems assertively focused
+    on blog-centric sites. I'm not sure that
+    + [[https://blog.getpelican.com/][Pelican]] home page
+    + [[https://github.com/getpelican/pelican][Pelican on github]]
+    + [[https://www.quora.com/Whats-the-best-available-static-blog-website-generator-in-Python][Quora Discussion]] of Python based site generators
+*** Jekyll
+    + [[https://github.com/jekyll/jekyll][Jekyll]]
+    + [[https://github.com/mmistakes/minimal-mistakes][Minimal Mistakes]]
+*** Hugo Static site generator
+    + [[https://github.com/spf13/hugo][Hugo]]
+    + [[https://github.com/maruel/webskel][WebSkel]] Hugo theme
+*** Phoenix web framework
+    + [[https://github.com/phoenixframework/phoenix][Phoenix]] on github
+*** Ego blogging engine
+    + [[https://github.com/emacs-china/EGO][EGO]], emacs-based static site generator
+    + [[https://tmalsburg.github.io/][T. von der Malsburg's github.io site]] is generated with EGO. [[https://github.com/tmalsburg/tmalsburg.github.io][Source on github]].
+** Other
+    + [[https://github.com/twbs/bootstrap][Bootstrap]] html/css/javascript framework
+
